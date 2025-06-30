@@ -1,4 +1,4 @@
-# Movie Finder 🎬
+# Movie Selector 🎬
 
 A modern React application for discovering and searching movies using The Movie Database (TMDB) API. Built with Vite, React 19, and Tailwind CSS for a fast and responsive user experience.
 
